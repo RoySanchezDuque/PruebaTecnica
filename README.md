@@ -1,1 +1,1 @@
-Prueba Tecnica (Corregida 100& Kotlin)
+Prueba Tecnica (Corregida 100% Kotlin)
